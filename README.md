@@ -1,2 +1,2 @@
-# jol1992.Startup.io
+# Startup
 Sample startup web pagee. Demo: css and boostrap
