@@ -1,2 +1,2 @@
 # Startup
-Sample startup web pagee. Demo: css and boostrap
+Sample startup web page. Demo: css and boostrap
